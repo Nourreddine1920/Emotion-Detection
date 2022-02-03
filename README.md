@@ -15,4 +15,4 @@
 
 ### 👉 RUN YOUR EMOTION DETECTION FILE
 
-``` python3 TestEmotionDetector.py ```
+``` python3 EmotionDetector.py ```
